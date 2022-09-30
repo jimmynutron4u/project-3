@@ -1,1 +1,4 @@
 Bye world
+i am adding line 1 to this document 
+changing the content in the remote repositry 
+adding the the content from local 
